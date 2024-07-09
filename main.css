@@ -52,13 +52,14 @@ p,
 #main {
   display: flex;
   justify-content: center;
-  border: 1px solid black;
+  /*border: 1px solid black;*/
 }
 
 .content {
   display: flex;
   flex-direction: column;
   /*gap: 20px;*/
+  padding: 20px;
 }
 
 #content-left {
