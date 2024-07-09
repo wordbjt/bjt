@@ -49,14 +49,13 @@ p,
     position: relative;
 }
 
-
-#main{
+#main {
   display: flex;
   justify-content: center;
   border: 1px solid black;
 }
 
-.content{
+.content {
   display: flex;
   flex-direction: column;
   gap: 20px;
