@@ -49,6 +49,19 @@ p,
     position: relative;
 }
 
+
+#main{
+  display: flex;
+  justify-content: center;
+  border: 1px solid black;
+}
+
+.content{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
 #content-left {
     width: 50%;
     left: 0;
