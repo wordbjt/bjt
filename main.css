@@ -87,3 +87,35 @@ p,
   width: 100%;
 }
 
+@media only screen and (min-width: 1000px) {
+
+    
+}
+
+
+
+
+@media only screen and (max-width: 999px) {
+
+    #main {
+    display: block;
+    }
+    
+  .content {
+    display: block;
+    /*gap: 20px;*/
+    padding: 20px;
+    }
+    
+    #content-left {
+    width: 100%;
+    left: 0;
+    }
+
+    #content-right {
+    width: 100%;
+    right: 0;
+    }
+}
+
+
