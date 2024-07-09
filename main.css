@@ -76,12 +76,13 @@ p,
 }
 
 .flex-container > div {
-  margin: 10px;
-  padding: 20px;
+  margin: 0px;
+  padding: 0px;
   width: 100%;
+  min-width: 50%;
 }
 
-.flex-container > div img {
+.flex-container div img {
   width: 100%;
 }
 
