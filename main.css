@@ -81,7 +81,7 @@ p,
   width: 100%;
 }
 
-#content-left img {
+.flex-container > div img {
   width: 100%;
 }
 
