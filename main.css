@@ -101,19 +101,19 @@ p,
     display: block;
     }
     
-  .content {
+   .content {
     display: block;
     /*gap: 20px;*/
     padding: 20px;
     }
     
     #content-left {
-    width: 100%;
+    width: auto;
     left: 0;
     }
 
     #content-right {
-    width: 100%;
+    width: auto;
     right: 0;
     }
 }
